@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coin Clicker</string>
+    <string name="title_activity_shop">ShopActivity</string>
+    <string name="autoClicker">Auto Clicker (+0.2/s) - $%1$d</string>
+    <string name="goldMiner">Gold Miner (+5/s) - $%1$d</string>
+    <string name="bank">Bank (+20/s) - $%1$d</string>
+
+    <string name="autoClickerLabel">Auto Clickers - %1$d</string>
+    <string name="goldMinerLabel">Gold Miners - %1$d</string>
+    <string name="bankLabel">Banks - %1$d</string>
+</resources>
